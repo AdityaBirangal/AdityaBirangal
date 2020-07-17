@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi, I'm Aditya Birangal 👋
+Lover of Technology !
 
-<!--
-**AdityaBirangal/AdityaBirangal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on AdiClass App
+- 🌱 I’m currently learning Flutter/Firebase
+- 👯 I’m looking to collaborate on Champool App
+- 🤔 I’m looking for help with Firebase
+- 💬 Ask me about Flutter/Firebase & any Tech Stuff
+- 📫 How to reach me: Instagram
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I need Backgroud music while Coding
