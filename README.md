@@ -5,7 +5,7 @@ I'm extremely passionate about Technology.
 Self taught Developer and make Android/ISO Apps & Websites.
 I spend a lot of my time in Learning, Innovating & Developing new things.
 
-<img align ="right" src = "megacat.png" width="250" height="250">
+<img align ="right" src = "https://github.com/AdityaBirangal/AdityaBirangal/blob/master/megacat.png" width="250" height="250">
 
 - 🔭 I’m currently working on AdiClass App
 - 🌱 I’m currently learning Flutter/Firebase
