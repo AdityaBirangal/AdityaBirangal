@@ -1,5 +1,29 @@
-### Hi, I'm Aditya Birangal 👋
+## Hi, I'm [Aditya Birangal](https://birangal.com) 👋
 Lover of Technology !
+
+<a href="https://birangal.com">
+  <img align="left" alt="Aditya Birangal's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />
+</a>
+
+<a href="https://linkedin.com/in/AdityaBirangal">
+  <img align="left" alt="Aditya Birangal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/AdityaBirangal">
+  <img align="left" alt="Aditya Birangal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://instagram.com/Aditya.Biranga/">
+  <img align="left" alt="Aditya Birangal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.facebook.com/AdityaBirangal">
+  <img align="left" alt="Aditya Birangal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="mailto:aditya@birangal.com">
+  <img align="left" alt="Aditya Birangal's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 I'm extremely passionate about Technology.
 Self taught Developer and make Android/ISO Apps & Websites.
