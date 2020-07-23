@@ -1,4 +1,4 @@
-# Hi, I'm [Aditya Birangal](https://birangal.com) 👋
+## Hi, I'm [Aditya Birangal](https://birangal.com) 👋
 <b>Lover of Technology !</b>
 
 <a href="https://birangal.com">
