@@ -25,9 +25,6 @@
   <img align="left" alt="Aditya Birangal's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br/>
-<br/>
-
 I'm extremely passionate about Technology.
 Self taught Developer and make Android/ISO Apps & Websites.
 I spend a lot of my time in Learning, Innovating & Developing new things.
@@ -35,12 +32,28 @@ I spend a lot of my time in Learning, Innovating & Developing new things.
 <img align ="right" src = "https://github.com/AdityaBirangal/AdityaBirangal/blob/master/megacat.png" width="250" height="250">
 
 - 🔭 I’m currently working on AdiClass App
-- 🌱 I’m currently learning Flutter/Firebase
-- 👯 I’m looking to collaborate on Champool App
+- 🌱 I’m currently learning Firebase
+- 👯 I’m looking to collaborate on [Champool App](https://github.com/AdityaBirangal/champool)
 - 🤔 I’m looking for help with Firebase
 - 💬 Ask me about Flutter | Firebase & any Tech Stuff
-- 📫 How to reach me: [Portfoilo](https://birangal.com), [LinkedIn](https://www.linkedin.com/in/adityabirangal), [Instagram](https://www.instagram.com/aditya.birangal), [Twitter](https://twitter.com/AdityaBirangal), [Email](mailto:aditya@birangal.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I need Backgroud music while Coding...
+
+**Languages and Tools:**
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">&nbsp;
+
 
 [![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaBirangal)](https://github-readme-stats.vercel.app/api?username=AdityaBirangal)
