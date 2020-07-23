@@ -25,6 +25,9 @@ Lover of Technology !
   <img align="left" alt="Aditya Birangal's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br/>
+<br/>
+
 I'm extremely passionate about Technology.
 Self taught Developer and make Android/ISO Apps & Websites.
 I spend a lot of my time in Learning, Innovating & Developing new things.
