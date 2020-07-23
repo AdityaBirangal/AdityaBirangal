@@ -1,5 +1,5 @@
-## Hi, I'm [Aditya Birangal](https://birangal.com) 👋
-Lover of Technology !
+# Hi, I'm [Aditya Birangal](https://birangal.com) 👋
+### Lover of Technology !
 
 <a href="https://birangal.com">
   <img align="left" alt="Aditya Birangal's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />
