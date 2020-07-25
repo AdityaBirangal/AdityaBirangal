@@ -21,6 +21,10 @@
   <img align="left" alt="Aditya Birangal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<a href="https://stackoverflow.com/users/13450398/aditya-birangal">
+  <img align="left" alt="Aditya Birangal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
 <a href="mailto:aditya@birangal.com">
   <img align="left" alt="Aditya Birangal's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
