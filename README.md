@@ -39,7 +39,7 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 <img align ="right" src = "https://github.com/AdityaBirangal/AdityaBirangal/blob/master/megacat.png" width="250" height="250">
 
 - 🔭 I’m currently working on [AdiClass App](https://adiclass.birangal.com)
-- 🌱 I’m currently learning Firebase
+- 🌱 I’m currently learning Google Cloud
 - 👯 I’m looking to collaborate on [Champool App](https://github.com/AdityaBirangal/champool)
 - 🤔 I’m looking for help with Firebase
 - 💬 Ask me about Flutter | Firebase & any Tech Stuff
