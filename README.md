@@ -47,7 +47,7 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 - ⚡ Fun fact: I need Music 🎵 while Coding...
 - 🇮🇳 Proudly Indian
 
-**Languages and Tools:**
+### 🛠 Languages and Tools
 
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">&nbsp;
@@ -63,5 +63,5 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">&nbsp;
 
-
+### ⚙️ GitHub Analytics
 [![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaBirangal)](https://github-readme-stats.vercel.app/api?username=AdityaBirangal)
