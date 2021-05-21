@@ -65,3 +65,9 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 
 ### ⚙️ GitHub Analytics
 [![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaBirangal)](https://github-readme-stats.vercel.app/api?username=AdityaBirangal)
+
+
+ <p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/AdityaBirangal/count.svg" />
+</p>
