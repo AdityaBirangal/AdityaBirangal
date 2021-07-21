@@ -64,8 +64,16 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">&nbsp;
 
+
+
+<!-- ### Lang
+![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBirangal&layout=compact&theme=radical&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) -->
+
+### 🎯 Github Streak Stats
+![Aditya Birangal's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AdityaBirangal&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+
 ### ⚙️ GitHub Analytics
-[![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaBirangal)](https://github-readme-stats.vercel.app/api?username=AdityaBirangal)
+![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaBirangal&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 
  <p align="center"> 
